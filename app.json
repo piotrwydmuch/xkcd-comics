@@ -23,6 +23,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "Rendering the list of the last comics from https://xkcd.com/ API",
+    "githubUrl": "https://github.com/piotrwydmuch/xkcd-comics"
   }
 }
